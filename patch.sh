@@ -1,4 +1,4 @@
-ROOT="${PWD}"
+ROOT="/home/chris/android/system"
 REPOSITORIES=(
     'packages/apps/ContactsCommon'
     'packages/apps/Contacts'
